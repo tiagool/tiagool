@@ -3,7 +3,7 @@
 [![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/t.iago_12/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devTiagoT&layout=donut-vertical)](https://github.com/tiagool/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devTiagoT&layout=donut-vertical)](https://github.com/tiagool?tab=repositories)
 
 👨‍💻 Tecnologias do meu dia a dia 👨‍💻
 
